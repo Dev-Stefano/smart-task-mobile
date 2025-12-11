@@ -1,4 +1,4 @@
-# Smart Task Mobile
+# Task Manager App
 Offline task manager built with Kotlin, Jetpack Compose, Room, and MVVM. Add, edit, delete tasks persistently without a backend.
 ### Roadmap
 - Backend API integration
