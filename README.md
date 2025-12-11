@@ -10,7 +10,7 @@ Offline task manager built with Kotlin, Jetpack Compose, Room, and MVVM. Add, ed
  2. Open in Android Studio (Giraffe or newer) with Kotlin plugin enabled.
  3. Run on an emulator or device (Android 8.0+).
 
-Features
+## Features
  - Offline persistence with Room
  - Add, edit, delete tasks
  - Compose UI with Material 3
@@ -18,16 +18,16 @@ Features
  - Navigation between list and detail screens
  - Date picker for due dates
 
-Screenshots
-Task list
+## Screenshots
+# Task list:
 ![Task List](screenshots/task_list.png)
 
-Add task
+# Add task:
 ![Add Task](screenshots/add_task.png)
 
-Edit task
+# Edit task:
 ![Edit Task](screenshots/edit_task.png)
 
-Delete task
+# Delete task:
 ![Delete Task](screenshots/delete_task.png)
 
