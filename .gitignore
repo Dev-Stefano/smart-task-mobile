@@ -32,3 +32,29 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+
+# Android/Gradle
+*.iml
+.gradle/
+/build/
+local.properties
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/gradle.xml
+.idea/inspectionProfiles
+.externalNativeBuild/
+.cxx/
+/captures/
+.DS_Store
+
+# Keystores (keep your release keystore private!)
+*.jks
+*.keystore
+
+# Logs
+*.log
